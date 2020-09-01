@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.db
+*.db-journal
+lib/bot/token.0
+.vscode/
